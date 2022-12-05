@@ -26,7 +26,7 @@ a
 }
 .header__wrap
 {
-    margin: 0 274px;
+    margin: 0 200px;
     display: flex;
 }
 .header__left
@@ -159,7 +159,7 @@ a
 
 .hidepage
 {
-    margin: 40px 274px;
+    margin: 40px 200px;
 }
 
 .container 
@@ -234,7 +234,7 @@ a
 }
 .container__main__wrap
 {
-    margin: 0 274px;
+    margin: 0 200px;
     display: flex;
 }
 .container__main__menu
