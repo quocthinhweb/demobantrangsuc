@@ -171,7 +171,7 @@ a
 {
     width: 100%;
      height: 250px;
-    background: url(./img/logo/backgroundimage.png); 
+    background: url(../img/logo/backgroundimage.png); 
 }
 
 .container__wrap 
